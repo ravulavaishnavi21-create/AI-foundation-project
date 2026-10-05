@@ -1,0 +1,6 @@
+case_id,symptoms,category
+1,"fever, cough, sore throat","cold"
+2,"headache, fever, body pain","flu"
+3,"stomach pain, nausea","stomach"
+4,"sore throat, runny nose","cold"
+5,"fever, chills, body pain","flu"
